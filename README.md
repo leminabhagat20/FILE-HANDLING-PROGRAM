@@ -32,3 +32,8 @@ A lexical analyzer is the first step in a compiler that breaks down code into me
 4. Run-Length Encoding (RLE) Compression
 This final program focused on a simple but effective data compression technique called Run-Length Encoding (RLE). In RLE, if the same character repeats several times in a row, it's replaced with the character followed by the count. For example, aaabbb becomes a3b3. This reduces file size when there are many repeated characters. I wrote the program in a human-friendly and readable way, using loops and conditions to count repeating characters and print the compressed result. It was fun to implement and helped me understand how data can be optimized for storage or transmission.
 
+#OUTPUT 1
+
+![Image](https://github.com/user-attachments/assets/ef31ff0a-d9f6-4701-a16d-c27c99ca2107)
+
+

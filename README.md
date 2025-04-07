@@ -24,3 +24,5 @@ This program clearly demonstrates the fundamental operations that are often need
 
 #OUTPUT:
 
+![Image](https://github.com/user-attachments/assets/ef31ff0a-d9f6-4701-a16d-c27c99ca2107)
+
